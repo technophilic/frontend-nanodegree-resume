@@ -110,6 +110,7 @@ a {
 
 .orange-text {
   color: #f5ae23;
+  text-transform: capitalize;
 }
 
 .white-text {
