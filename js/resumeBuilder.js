@@ -162,8 +162,8 @@ projects.display = function() {
         project.images.forEach(function(image) {
             var formattedProjectImage = HTMLprojectImage.replace("%data%",image);
             $(".project-entry:last").append(formattedProjectImage);
-        })
-    })
+        });
+    });
 
 };
 
